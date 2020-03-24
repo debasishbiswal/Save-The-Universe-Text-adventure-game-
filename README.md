@@ -1,6 +1,6 @@
-**Introduction:
-      This game you are about to play is called 'Save the Universe' and
-      it is a game based on Marvel Cinematic Universe. 
+
+      This is a game called 'Save the Universe' and
+      based on The Marvel Cinematic Universe. 
       To win this game you have to pass three levels. After winning
       level 1, You will be able to enter level 2 and after, if you manage
       to beat level 2 you will be able to face off level 3. In this game 
